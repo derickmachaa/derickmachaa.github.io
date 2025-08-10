@@ -1,7 +1,7 @@
 ---
 title: How I Repaired a Samsung PM981 SSD to Recover Lost Data
 categories: [hardware-hacking]
-date: '2025-08-10 13:04:23'
+date: '2025-08-10 10:04:23'
 tags: [ssd, pm981, repair, data-recovery, hardware-hack]
 ---
 

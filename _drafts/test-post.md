@@ -1,5 +1,4 @@
 ---
 layout: post
 title: Test-post
-date: '2025-08-10 15:20:39'
 ---
